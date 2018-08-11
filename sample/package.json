@@ -1,0 +1,25 @@
+{
+  "name": "sample-app-2",
+  "version": "1.0.0",
+  "description": "Sample App using HTML5, CSS3 and Bootstrap4",
+  "main": "index.js",
+  "scripts": {
+    "start": "lite-server"
+  },
+  "keywords": [
+    "html",
+    "css",
+    "bootstap"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dineshkumar46146/Myapp"
+  },
+  "homepage": "https://github.com/dineshkumar46146/Myapp#readme",
+  "devDependencies": {
+    "lite-server": "^2.3.0"
+  },
+  "dependencies": {},
+  "author": "dineshkumar46146",
+  "license": "ISC"
+}
